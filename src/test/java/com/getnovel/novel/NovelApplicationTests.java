@@ -1,4 +1,4 @@
-package com.springboot.getnovel;
+package com.getnovel.novel;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GetnovelApplicationTests {
+public class NovelApplicationTests {
 
 	@Test
 	public void contextLoads() {
